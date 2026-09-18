@@ -2,24 +2,6 @@
 
 A responsive **Netflix Clone** built with **HTML and CSS**, inspired by Netflix's interface. This project was created as a frontend practice and portfolio project.
 
-##  Screenshots
-
-![iPadPro shot](Screenshots/iPadPro%20shot.png)
-
-![ON iPhone 16 Pro Max](Screenshots/ON%20iPhone%2016%20Pro%20Max.png)
-
-![ ](Screenshots/Other%20Details.png)
-
-![Professional Footer](Screenshots/Professional%20Footer.png)
-
-![Samsung Galaxy S20 Ultra-Screenshot](Screenshots/Samsung%20Galaxy%20S20%20Ultra-Screenshot.png)
-
-![Desktop screenshot](Screenshots/screenshot-desktop.png)
-
-### Desktop
-
-![Netflix Clone Desktop](Screenshots/screenshot-desktop.png)
-
 
 ## 🚀 Features
 
@@ -47,12 +29,6 @@ NETFLIX_CLONE/
 ├── Images/
 │   └── Movie and UI images
 │
-├── screenshots/
-│   ├── screenshot-desktop.png
-│   ├── ON iPhone 16 Pro Max.png
-│   ├── iPadPro shot.png
-│   └── ... and more
-│
 ├── index.html
 ├── style.css
 ├── script.js
@@ -72,7 +48,7 @@ This project was created to practice:
 
 ## 🌐 Live Demo
 
-**Live Demo:**https://wasil-se.github.io/Netflix_Clone/
+**Live Demo:**https://wasil-se.github.io/Project_Netflex_Clone/
 
 ##  Disclaimer
 
@@ -86,4 +62,4 @@ Built as part of my frontend web development learning journey.
                                             
                                             
                                             
-                                            ===*********Thanks for visiting************===
+                                         ==**Thanks for visiting**==
